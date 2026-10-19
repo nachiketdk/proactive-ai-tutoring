@@ -10,6 +10,4 @@ We plan to release the dataset in the coming months, alongside the conference pa
 
 ## Contact
 
-If you are interested in accessing the data before the public release, or have questions about the study or materials, please contact the authors to discuss availability and your research needs.
-
-Contact: [Nachiket Kotalwar](mailto:nkotalwa@andrew.cmu.edu), or any of the coauthors listed in the paper.
+If you are interested in accessing the data before the public release, or have questions about the study or materials, please contact [Nachiket Kotalwar](mailto:nkotalwa@andrew.cmu.edu) to discuss availability and your research needs.
