@@ -14,7 +14,7 @@ The full platform code release is forthcoming.
 
 ## Citation
 
-If you use the dataset or explorer in your research, please cite the accompanying paper and state the dataset revision used:
+If you build on this work, please cite our paper:
 
 ```bibtex
 @misc{kotalwar2026visualaccesstutoring,
